@@ -1,6 +1,6 @@
 
 <p align="center">
-  <a href="https://www.edisonlee55.com"><img src="image (1).png" alt="Banner"></a>
+  <a href="#"><img src="d9c8e30ba4930c14134995d5026bddf2.gif" alt="Banner"></a>
 </p>
 
 <h1 align="center">Hi, I'm <a color="black" href="https:/#">Shahnazaryan David</a>!</h1>
@@ -15,8 +15,8 @@
       <img src="https://cdn-icons-png.flaticon.com/512/145/145813.png" width="40" height="40" alt="VK Badge"/>
     </a>
   </div>
-  ---
-
+  
+---
 ### 💻 Технологии:
 
 <div>
